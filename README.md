@@ -1,86 +1,186 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hai, Saya Syahrul Nizam!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=SYAHRUL%20NIZAM&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=WEB%20DEVELOPER%20|%20VIDEO%20EDITOR&descAlignY=55" width="100%">
+</div>
+
+<!-- Matrix-style moving code background -->
+```
+   while (!asleep()) {
+       code();
+       edit_videos();
+       repeat();
+   }
+```
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <a href="#">
+     <img src="https://img.shields.io/badge/HELLO%20WORLD-I'M%20A%20DIGITAL%20CREATOR-blue?style=for-the-badge&labelColor=black&color=blue">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3 align="center">⚡ TECH ARSENAL ⚡</h3>
+      <div align="center">
+        <table align="center">
+          <tr>
+            <td align="center" width="100">
+              <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="50" alt="Laravel">
+              <br>Laravel
+            </td>
+            <td align="center" width="100">
+              <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React">
+              <br>React
+            </td>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="NextJS">
+              <br>NextJS
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="100">
+              <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind">
+              <br>Tailwind
+            </td>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
+              <br>HTML5
+            </td>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
+              <br>CSS3
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
+              <br>JavaScript
+            </td>
+            <td align="center" width="100">
+              <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50" height="50" alt="Kotlin">
+              <br>Kotlin
+            </td>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java">
+              <br>Java
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3 align="center">🎬 CREATIVE SUITE 🎬</h3>
+      <div align="center">
+        <table align="center">
+          <tr>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="50" height="50" alt="After Effects">
+              <br>After Effects
+            </td>
+            <td align="center" width="100">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="50" height="50" alt="Premiere Pro">
+              <br>Premiere Pro
+            </td>
+            <td align="center" width="100">
+              <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/375_Tiktok_logo-512.png" width="50" height="50" alt="CapCut">
+              <br>CapCut
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="100">
+              <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="CNN">
+              <br>CNN
+            </td>
+            <td align="center" width="100">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code">
+              <br>VS Code
+            </td>
+            <td align="center" width="100">
+              <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50" height="50" alt="Android Studio">
+              <br>Android Studio
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <p>▀▄▀▄▀▄ SYSTEM STATUS ▄▀▄▀▄▀</p>
+
+  <!-- Cyber Status Board -->
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></td>
+      <td>Debugging Reality...</td>
+      <td>⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜ 50%</td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td>Coding Projects...</td>
+      <td>⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%</td>
+    </tr>
+    <tr>
+      <td>🎬</td>
+      <td>Rendering Creativity...</td>
+      <td>⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%</td>
+    </tr>
+    <tr>
+      <td>☕</td>
+      <td>Coffee Consumption...</td>
+      <td>⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 90%</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<!-- Stats Cards -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahrulnizam7&theme=synthwave&hide_border=true&stroke=f53b3b" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syahrulnizam7&theme=radical&no-frame=true&row=1&column=4" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=70&lines=Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Video+Editor+%F0%9F%8E%AC;Pembuat+Keajaiban+Digital+%E2%9C%A8" alt="Typing SVG" />
+  <b>$ CONTACT_PROTOCOLS_INITIALIZED</b>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="250" /> 
-</div>
-
-<h2 align="center">🌈 Tech Stack Yang Saya Kuasai 🌈</h2>
-
-<div align="center">
-  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/🔥%20Laravel-FF2D20?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/⚛️%20React-61DAFB?style=for-the-badge&logoColor=black" /></a>
-  <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/🚀%20Next.js-000000?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/💨%20Tailwind-38B2AC?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="JS" src="https://img.shields.io/badge/🧩%20JavaScript-F7DF1E?style=for-the-badge&logoColor=black" /></a>
-  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/📱%20Kotlin-7F52FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/☕%20Java-007396?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="Android" src="https://img.shields.io/badge/🤖%20Android-3DDC84?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="AE" src="https://img.shields.io/badge/✨%20After%20Effects-9999FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="PR" src="https://img.shields.io/badge/🎬%20Premiere%20Pro-9999FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="CapCut" src="https://img.shields.io/badge/✂️%20CapCut-00C2B8?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="CNN" src="https://img.shields.io/badge/🧠%20CNN-FF0000?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/🛠️%20VS%20Code-007ACC?style=for-the-badge&logoColor=white" /></a>
-</div>
-
-<h2 align="center">🎮 Lihat Petualangan Kodingku 🎮</h2>
-
-<div align="center">
-  <a href="https://github.com/syahrulnizam7">
-    <img src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg" width="49%" alt="Stats">
-    <img src="https://github.com/syahrulnizam7/snake-svg/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
-</div>
-
-<h2 align="center">🏆 Prestasiku 🏆</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syahrulnizam7&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=10&column=4" width="700" />
-</div>
-
-<details>
-  <summary>👨‍💻 <b>Siapa saya?</b></summary>
-  <br/>
-  <p>
-    <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="100" height="100" align="right">
-    Hai! Saya seorang Web Developer dan Video Editor yang suka mengubah ide menjadi kenyataan! ✨
-    <br/><br/>
-    Sebagai Web Developer, saya membangun aplikasi web yang responsif dan interaktif.
-    <br/><br/>
-    Sebagai Video Editor, saya menciptakan konten visual yang menarik dan memukau.
-    <br/><br/>
-    Yuk kita berkolaborasi membuat sesuatu yang KEREN! 🚀
-  </p>
-</details>
-
-<h2 align="center">📫 Temukan Saya Di 📫</h2>
-
-<div align="center">
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/TRANSMIT_MESSAGE-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/👔%20LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/your-instagram/">
-    <img src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_TRANSMISSIONS-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <p>
-  <img src="https://komarev.com/ghpvc/?username=syahrulnizam7&style=plastic&color=ff69b4" alt="Profile views"/>
-  </p>
-  
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  <p>VISITOR COUNT</p>
+  <img src="https://profile-counter.glitch.me/syahrulnizam7/count.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00C9FF,0:92FE9D&height=100&section=footer&text=END_OF_TRANSMISSION&fontSize=12&fontColor=ffffff&animation=fadeIn&fontAlignY=80" width="100%">
 </div>
