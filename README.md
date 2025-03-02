@@ -15,11 +15,13 @@
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" height="45" alt="Laravel" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Laravel.svg" width="45" height="45" alt="Laravel" />
+
       <br/>Laravel
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind" />
+      <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind" />
+
       <br/>Tailwind CSS
     </td>
     <td align="center" width="140">
