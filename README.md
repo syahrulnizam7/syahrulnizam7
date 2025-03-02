@@ -1,53 +1,54 @@
-# 👋 Halo Dunia! Saya Syahrul Nizam
+# Hi, I'm Syahrul Nizam 👋
 
-<img src="https://media.giphy.com/media/au5Pp8i1HL7cAmzAkk/giphy.gif" width="200">
+![GitHub followers](https://img.shields.io/github/followers/syahrulnizam7?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=syahrulnizam7&color=brightgreen)
 
-## 🤖 Bio Absurd
+## 👨‍💻 About Me
+Full-stack developer passionate about creating elegant solutions to complex problems. I'm constantly learning and exploring new technologies to improve my skills.
 
-Programmer yang suka begadang sampai jam 3 pagi karena ada semicolon hilang. ☕ Hubungan saya dengan debugging lebih stabil daripada hubungan asmara saya. Saat tidak sedang meyakinkan komputer untuk mengikuti perintah saya, saya mungkin sedang membujuk kucing untuk tidak tidur di keyboard.
+## 🚀 Tech Stack
 
-## 💻 Alat Bertahan Hidup
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-FF0000?style=flat-square&logo=tensorflow&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Saya%20menulis%20bug%20dengan%20ini-yellow?style=for-the-badge&logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-Sihir%20hitam%20yang%20saya%20pura--pura%20pahami-blue?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-Mesin%20waktu%20untuk%20menyimpan%20kesalahan-red?style=for-the-badge&logo=git)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Guru%20spiritual%20saya-orange?style=for-the-badge&logo=stackoverflow)
+## 📊 GitHub Stats
 
-## 📊 Statistik Keren (Bukan Berarti Saya Memperhatikannya... 👀)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrulnizam7&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=syahrulnizam7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=Prestasi%20Mengetik%20Random%20Saya&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahrulnizam7&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 🏆 Pencapaian Hidup
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrulnizam7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- 🥇 Juara bertahan dalam kompetisi "Debugging Sampai Fajar"
-- 🥈 Medali perak dalam "Menghabiskan Seluruh Gaji untuk Gadget"
-- 🥉 Juara 3 "Menjelaskan pada Orang Tua Apa Itu Coding"
-- 🎖️ Penghargaan khusus "Bertahan Hidup dengan Indomie Selama Deadline"
+## 📈 Contribution Graph
 
-## 📉 Kontribusi GitHub (Atau Bukti Bahwa Saya Kadang Keluar Rumah)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=syahrulnizam7&theme=react-dark" alt="Contribution Graph" />
+</p>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syahrulnizam7&theme=dracula&custom_title=Bukti%20Aktivitas%20Saya%20(Kebanyakan%20Pada%20Jam%202%20Pagi))
+## 🏆 GitHub Trophies
 
-## 💬 Kata-Kata Bijak Programmer
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syahrulnizam7&theme=radical&row=1" alt="GitHub Trophies" />
+</p>
 
-> "Saya tidak punya masalah sosial, saya hanya men-debug hubungan saya."
-> 
-> "Hidup saya diatur oleh kurung kurawal {}"
-> 
-> "Kopi adalah library utama saya, tidak bisa di-uninstall"
+## 📫 Connect with Me
 
-## 🎮 Saat Tidak Coding
-
-Anda mungkin menemukan saya:
-- 🎮 Kalah dalam game online dan menyalahkan lag
-- 🍕 Berdebat tentang apakah nanas boleh diletakkan di atas pizza (jawabannya jelas tidak)
-- 📺 Menonton tutorial coding yang tidak akan pernah saya praktikkan
-- 💤 Berjanji akan tidur cepat (narrator: "Dia tidak tidur cepat")
-
----
-
-![Penghitung Pengunjung](https://profile-counter.glitch.me/syahrulnizam7/count.svg)
-
-<img src="https://media.giphy.com/media/xUOxeYzt1Ei7AMnsFq/giphy.gif" width="300">
-
-### 👇 Silakan scroll repositori saya untuk menemukan proyek yang mungkin tidak pernah selesai
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/syahrulnizam7)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/syahrulnizam7)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
