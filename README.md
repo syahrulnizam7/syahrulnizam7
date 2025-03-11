@@ -112,6 +112,6 @@ const syahrulNizam = {
 </div>
 
 <div align="center">
-  <p><strong>Thanks for visiting!</strong> Here's a random programming joke to make your day:</p>
+  <p><strong>Thanks for visiting!!</strong> Here's a random programming joke to make your day:</p>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
