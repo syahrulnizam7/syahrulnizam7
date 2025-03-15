@@ -94,7 +94,7 @@ const syahrulNizam = {
 };
 ```
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me~
 
 <div align="center">
   <a href="https://github.com/syahrulnizam7">
